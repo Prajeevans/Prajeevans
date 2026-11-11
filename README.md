@@ -1,9 +1,11 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071B52,50:123C9C,100:1675D1&amp;height=200&amp;section=header&amp;text=Prajeevan%20Sivanantharajah&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Electrical%20%26%20Electronics%20Engineering%20%7C%20AI%20%26%20Software&amp;descAlignY=60&amp;descSize=15" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B52,50:123C9C,100:1675D1&height=200&section=header&text=Prajeevan%20Sivanantharaja&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20%7C%20Software%20Development%20%7C%20AI%2FML&descAlignY=60&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=42B8E9&center=true&vCenter=true&width=700&lines=Electrical+%26+Electronic+Engineering+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Software+Developer;Exploring+Deep+Learning+%26+IoT;Building+Engineering+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=42B8E9&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronic+Engineering+Student;Software+Developer;Exploring+AI+%26+Machine+Learning;Building+Real-World+Engineering+Solutions" alt="Typing SVG"/>
 </p>
 
 ## 👨‍💻 About Me
