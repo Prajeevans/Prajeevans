@@ -1,5 +1,5 @@
- <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B52,50:123C9C,100:1675D1&height=200&section=header&text=Prajeevan%20Sivanantharajah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20%7C%20AI%20%26%20Software&descAlignY=60&descSize=15" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071B52,50:123C9C,100:1675D1&amp;height=200&amp;section=header&amp;text=Prajeevan%20Sivanantharajah&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Electrical%20%26%20Electronics%20Engineering%20%7C%20AI%20%26%20Software&amp;descAlignY=60&amp;descSize=15" width="100%"/>
 
 <!-- Typing Animation -->
 <p align="center">
