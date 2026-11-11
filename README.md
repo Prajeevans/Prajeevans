@@ -74,16 +74,27 @@ Research and simulation of offline UPS systems using MATLAB, Simulink and Simsca
 ### 🤖 AI & Machine Learning
 Exploring machine learning, deep learning, natural language processing and computer vision through practical projects.
 
-## 📊 GitHub Statistics
+## 📈 Developer Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajeevans&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajeevans&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajeevans&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prajeevans&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-123C9C?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Focus-Engineering%20%26%20AI-1675D1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Development-Open%20Source-42B8E9?style=for-the-badge"/>
 </p>
+
+## 💡 Areas of Expertise
+
+| Area | Focus |
+|---|---|
+| Software Development | Flutter, React, Python |
+| AI & Machine Learning | TensorFlow, Scikit-learn, OpenCV |
+| Electrical Engineering | UPS, Power Electronics, BMS |
+| Embedded Systems | Arduino, ESP32, IoT |
+| Data & Cloud | Firebase, MySQL, MongoDB, AWS |
 
 ## 🤝 Connect With Me
 
@@ -91,7 +102,7 @@ Exploring machine learning, deep learning, natural language processing and compu
   <a href="https://github.com/Prajeevans">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/prajeevan-sivanandharaja-82a40b1a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
