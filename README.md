@@ -1,33 +1,105 @@
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prajeevan&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Telecom%20%7C%20RF%20Planning%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
+ 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B52,50:123C9C,100:1675D1&height=200&section=header&text=Prajeevan%20Sivanantharaja&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20%7C%20Software%20Development%20%7C%20AI%2FML&descAlignY=60&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+telecom+network+planners;RF+propagation+%2B+Machine+Learning;Python+%7C+Streamlit+%7C+Data+Science" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=42B8E9&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronic+Engineering+Student;Software+Developer;Exploring+AI+%26+Machine+Learning;Building+Real-World+Engineering+Solutions" alt="Typing SVG"/>
 </p>
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
+
 ```bash
 $ whoami
-> Telecom & data science enthusiast
-$ cat current_focus.txt
-> TelePlan AI: network planning & RF simulation
+> Engineering student at South Eastern University of Sri Lanka
+
+$ interests
+> Software Engineering
+> Artificial Intelligence & Machine Learning
+> Electrical & Electronics Engineering
+> Embedded Systems & IoT
+
+$ currently_working_on
+> Renewaa BMS Dashboard Mobile Application
+> UPS System Design & Simulation
+
+$ goal
+> Combining Engineering, Software and AI to solve real-world problems.
 ```
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,jupyter,docker,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,dart&theme=dark"/>
 </p>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+**Software & Development**
 
-## 🚀 Featured project
-**[TelePlan AI](https://github.com/Prajeevans/TelePlan_AI)** – interactive RF propagation simulator with coverage heatmaps and ML-based RSRP prediction.
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,flask,firebase,mysql,mongodb,git,github,vscode&theme=dark"/>
+</p>
 
-## 📊 GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=Prajeevans&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajeevans&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+**AI / Machine Learning & Data Science**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+**Engineering & Embedded Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+</p>
+
+## 🚀 Featured Projects
+
+### 🔋 Renewaa BMS Dashboard Mobile
+Flutter-based mobile application for monitoring Battery Management Systems, integrating Firebase Authentication and Realtime Database.
+
+### ⚡ UPS System Design & Simulation
+Research and simulation of offline UPS systems using MATLAB, Simulink and Simscape Electrical.
+
+### 🤖 AI & Machine Learning
+Exploring machine learning, deep learning, natural language processing and computer vision through practical projects.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajeevans&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajeevans&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prajeevans&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Prajeevans">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Engineering ideas into practical solutions.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1675D1,100:071B52&height=100&section=footer" width="100%"/>
